@@ -1,0 +1,16 @@
+Feature,Coefficient
+OverTime_1,1.3729
+BusinessTravel_Travel_Frequently,0.6666
+JobRole_Laboratory Technician,0.5881
+PerformanceRating,0.5128
+MaritalStatus_Single,0.4846
+Monthly_Income_Level_Medium_Income,-0.4581
+Monthly_Income_Level_Low_Income,0.4543
+Department_Sales,0.3634
+EnvironmentSatisfaction,-0.3463
+JobRole_Research Scientist,-0.336
+JobInvolvement,-0.3235
+StockOptionLevel,-0.3155
+Seniority_Category_Mid_Level,-0.2877
+Gender_Male,0.2809
+JobSatisfaction,-0.2602
